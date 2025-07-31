@@ -1,5 +1,5 @@
-### THM-WriteUp-Splunk-SPL Lab  
-**Writeup for TryHackMe Splunk: Exploring SPL Lab** – a comprehensive technical analysis and hands-on application of Splunk's Search Processing Language (SPL) to query, filter, and visualize log data for actionable insights in cybersecurity.
+### Splunk-SPL
+A comprehensive technical analysis and hands-on application of Splunk's Search Processing Language (SPL) to query, filter, and visualize log data for actionable insights in cybersecurity.
 
 ---
 
